@@ -1,0 +1,25 @@
+.orange{
+  border-top: 5px solid #e47d26;
+  background-color: rgba(228,117,38? 0,15);
+  margin-top: 0px;
+}
+.rose{
+  border-top: 5px solid #e44d96;
+  background-color:rgba( 228,77,128,0,15);
+}
+
+.leftexp{
+  width: 45%;
+  float:left;
+   }
+
+   .rightexp{
+    width: 50%;
+    float: left;
+    margin-top: 5%;
+
+   }
+   .leftexp img{
+    width:100%;
+    max-height: 400px;
+   }

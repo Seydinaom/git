@@ -1,0 +1,129 @@
+body{
+  background-image: url(imm.jpg );
+  background-repeat: no-repeat;
+  background-size: cover;
+  justify-content: center;
+  background-attachment: fixed;
+  margin-top: 20px;
+  margin-left:100px;
+  margin-bottom: 100px;
+   
+
+  }
+
+
+  .spac{
+
+margin-right: 5%;
+  }
+i{
+  font-size: 10px;
+  opacity: 0.5;
+  position: absolute;
+  margin-top: 7px;
+  margin-left:  -5px;
+
+
+}
+
+.ligne{
+  position: relative;
+
+}
+  .sol{
+ margin-top: 15%;
+ margin-right: 10%;
+ margin-left: 5%;
+ height: 240px
+ border: 1px solid black;
+ position: fixed;
+ padding-left: 20px;
+ padding-bottom:  20px;
+ padding-right: 10px;
+ padding-top: 20px;
+ background-color: white;
+  display:flex;
+  flex-wrap: :nowrap;
+width: 400px;  
+  
+}
+     
+  .line{
+     display:flex;
+     justify-content: space-between;
+
+     
+     
+  }
+       
+.title{
+  font-weight: normal;
+  text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.sol{
+
+ display: flex;
+  flex-wrap: :nowrap;
+}
+
+.conc{
+   padding-right: 50%;
+   padding-left: 50%;
+   padding-top: 5%;
+}
+.p{
+  background-color: black;
+  color: white;
+  width: 60px;
+  height: 30px;
+  float: right;
+  padding-right:30px;
+  padding-bottom: 10%;
+  opacity: 0.9;
+  
+}
+
+
+.ab{
+  border-bottom: 1px solid black;
+  width:100px;
+}
+.ac{
+  border-bottom: 1px solid black;
+  width:100px;
+}
+.ad{
+  border-bottom: 1px solid black;
+  width:210px;
+}
+
+.ae{
+  border-bottom: 1px solid black;
+  width:210px;
+}
+.af{
+  border-bottom: 1px solid black;
+  width:200px;
+}
+.ah{
+  border-bottom: 1px solid black;
+  width:200px;
+}
+.am{
+  border-bottom: 1px solid black;
+  width:200px;
+}
+ input{
+   border-bottom:0px;
+   width: 340px;
+   border-top: 0px;
+   border-left: 0px;
+   border-right: 0px;
+   position: relative;
+   background: transparent;
+   margin-bottom: 5px;
+   
+  
+ }

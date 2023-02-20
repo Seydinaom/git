@@ -1,0 +1,636 @@
+ body{ 
+ 	
+ 	height: 5000px;
+ 	background-color: white;
+
+}
+ 
+ .note{
+ 	position: absolute;
+ 	color: white;
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	justify-content: space-between;
+ 	height: 150px;
+ 	width:1070px;
+ 	margin-top: 70px;
+ 	margin-left: 80px;
+     padding-left: 40px;
+     padding-top: 20px;
+ 	background-color: #ffAD01;
+ }
+ 
+
+ 
+
+
+
+.contain{
+
+ 	height: 700px;
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	background-image:url(ordinateur.jpg);
+ 	justify-content: contain;
+
+}
+.rue img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-top: 29px;
+	margin-left: -30px;
+}
+.num img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-top: 29px;
+	margin-left: -30px;
+
+}
+.adress img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-top: 29px;
+	margin-left: -30px;
+
+
+}
+
+
+    
+    
+    .cv{
+    	position: absolute;
+    	background-color: orange;
+    	width: 150px;
+    	height: 50px;
+    	color: white;
+    	margin-top: 250px;
+    	margin-left: 1040px;
+    }
+    .cv p{
+    	position: absolute;
+    	margin-left: 15px;
+    }
+    .box{
+    	position: absolute;margin-top: 30px;
+    	background-color: white;
+    	
+    	width: 800px;
+    	height: 400px;
+    	margin-top: 400px;
+    	margin-left: 300px;
+    }
+    .nom{
+    	font-size: 25px;
+    	margin-left: -60px;
+    }
+    .info{
+    	margin-top: 100px;
+    	margin-left: 41%;
+
+
+    }
+    em{
+    	font-size: 17px;
+    	margin-left: 5px;
+    }
+    .yellow{
+    	color:#ffBD84;
+    	font-size: 25px;
+    	margin-bottom: 60px;
+
+
+    }
+    .img img{
+    	position: absolute;
+    	width: 150px;
+    	height: 150px;
+    	border-radius: 50%;
+    	margin-top: -80px;
+    	margin-left: 41%;
+    }
+      .link{
+      	position: absolute;
+      	margin-top: 30px;
+      	margin-left: 60px;
+      	margin-right:60px;
+      }
+      .insta{
+      	position: absolute;
+      	margin-top:30px;
+      	margin-left: 110px;
+      	margin-right:60px;
+
+      	}
+      	.face{
+      	position: absolute;
+      	margin-top: 30px;
+      	margin-left: 160px;
+      	margin-right:60px;
+
+      	}
+      	.pinte{
+      	position: absolute;
+      	margin-top: 28px;
+      	margin-left:15px;
+
+      	
+
+      	}
+      	.twitter{
+      	position: absolute;
+      	margin-top: 30px;
+      	margin-left: 210px;
+
+      	
+
+      	}
+      	.rue i{
+      		border:  none;
+      		margin-left: -30px;
+      		margin-top: 25px;
+      		background-color: transparent;
+      		font-size: 20px;
+      	}
+      	.num i{
+      		border:  none;
+      		margin-left: -32px;
+      		margin-top: 22px;
+      		background-color: transparent;
+      		font-size: 20px;
+
+      	}
+      	.adress i{
+      		border:  none;
+      		margin-left: -32px;
+      		margin-top: 22px;
+      		background-color: transparent;
+      		font-size: 20px;
+      	}
+      	i{   
+
+      		margin-right: 20px;
+            padding-left: 8px;
+            padding-top: 8px;
+      		position: absolute;
+      		width: 30px;
+      		height: 30px;
+      	
+      		border-radius: 50%;
+      		background-color: #887392;
+
+
+      		
+      	}
+      	
+
+      	
+    .reseau img{
+    	position: absolute;
+    	width: 20px;
+    	height: 20px;
+    	border: 1px solid black;
+    	border-radius: 50%;
+    	padding: 5px;
+    	background-color: #887392;
+    	
+    }
+    .reseau{
+    	margin-left: 40%;
+    	margin-top: 10px;
+    }
+    .mail{
+    	margin-left: -30px;
+    }
+    .milieu{
+    	position: absolute;
+    	margin-top: 300px;
+    	margin-left: 50px;
+    }
+    .ligne{
+    	height: 10px;
+    	width: 50px;
+    	border-radius: 5px 5px 5px 5px;
+    	background-color: #ffA804;
+    }
+    .fol{
+    	font-size: 30px;
+    }
+    .my{
+    	color: #999999;
+    	position: absolute;
+    	margin-top: -35px;
+    }
+    .menu{
+    	margin-top: 300px;
+    	margin-left: 300px;
+
+    	
+
+    }
+    li:hover{
+    	color: #ffA804;
+
+    }
+    ul{
+    	display: flex;
+    	flex-wrap: nowrap;
+    	justify-content: space-between;
+    	padding-right: 380px;
+    	padding-left: 260px;
+    	padding-top: 70px;
+    	font-size: 20px;
+
+
+    }
+    li{
+    	list-style-type: none;
+
+    	
+
+    }
+    .all{
+    	color:#ffA804; 
+    }
+    
+    
+    .tete{
+    	position: absolute;
+    	display: flex;
+    	flex-wrap: nowrap;
+    	justify-content: space-between;
+    	
+    }
+    .port5{
+    	position: absolute;
+    	margin-left: 870px;
+
+    	}
+    .port1{
+    	position: absolute;
+    	margin-left: 500px;
+    	
+    	
+    	
+
+    	}
+    	.dos{
+    		position: absolute;
+    	display: flex;
+    	flex-wrap: nowrap;
+    	margin-top: 350px;
+    		
+    	}
+    	.portc{
+    		position: absolute;
+    		margin-left: 250px;
+
+    		
+    	}
+    	.photo4{
+    		position: absolute;
+    		margin-top: 680px;
+
+    	}
+    	.port6{
+    		position: absolute;
+    		margin-left: 500px;
+    		margin-top: 680px;
+    	}
+    	.imo{
+    		position: absolute;
+    		margin-left: 500px;
+    		display: flex;
+    		flex-wrap: nowrap;
+    		margin-top: 920px;
+    	}
+    	.port8{
+
+    		margin-left: 20px;
+    	}
+    	.port9{
+    		position: absolute;
+    	   margin-left: 870px;
+    	   margin-top: 340px;
+    	}
+    	.port10{
+
+    		position:absolute;
+    		margin-left: 870px;
+    		margin-top: 680px;
+    	}
+    	.lign{
+    	height: 10px;
+    	width: 50px;
+    	border-radius: 5px 5px 5px 5px;
+    	background-color: #ffA804;
+    }
+    .left{
+    	position: absolute;
+    	margin-top: 1430px;
+    }
+    .pro{
+    	color: #999999;
+    }
+    .right{
+    	position: absolute;
+    	margin-top: 1415px;
+    	margin-left: 300px;
+    	color:black; 
+    }
+    .mesima{
+    	position: absolute;
+    	margin-top: 50px;
+    	margin-right: 5px;
+    	width: 100%;
+    }
+    .priori{
+    	background-color:#28023D;
+    	height:  900px;
+    	width: 100%;
+    	margin-top: 50px;
+    	color: white;
+    	margin-right: none;
+    	margin-right: none; 
+    }
+
+
+    .lig{
+    	position: absolute;
+    	margin-left: 10px;
+    	margin-top: 10px;
+    	height: 10px;
+    	width: 50px;
+    	border-radius: 5px 5px 5px 5px;
+    	background-color: #ffA804;
+    }
+    .pre{
+    	color: #999999;
+    	position: absolute;
+    	margin-top: -10px;
+
+    }
+    .work{
+    	position: absolute;
+    	margin-left: 10px;
+    	margin-top: 10px;
+
+    }
+    .textes{
+    	position: absolute;
+    	margin-left:400px;
+    }
+    .orange{
+    	
+    	color: #ffA804;
+    }
+    .ul{
+    	position: absolute;
+         margin-top: 200px;
+         margin-left: 125px;
+         flex-direction: column;
+         list-style-type: circle;
+    }
+    .li{
+    	list-style-type: circle;
+    }
+    .web{
+
+    	position: absolute;
+    	margin-top: 400px;
+    	margin-left: 355px;
+    }
+    .oran{
+    	position: absolute;
+    	color:  #ffA804;
+    	margin-bottom: 20px;
+    }
+    .dat{
+    	position: absolute;
+    	margin-top: 30px;
+    }
+    .phra{
+    	position: absolute;
+    	margin-top: 90px;
+    }
+    .last{
+    	position: absolute;
+    	margin-top: 700px;
+    	margin-left: 105px;
+    	position: absolute;
+         flex-direction: column;
+         
+    }
+    .gauch{
+    	position: absolute;
+    	margin-top: -20px;
+    }
+    .line{
+    	position: absolute;
+    	margin-left: -60px;
+    	margin-top: -8px;
+    	height: 10px;
+    	width: 50px;
+    	border-radius: 5px 5px 5px 5px;
+    	background-color: #ffA804;
+    }
+    .educ h1{
+    	position: absolute;
+    	margin-top: 10px;
+    	
+    }
+    .educ{
+    	position: absolute;
+    	margin-left: -65px;
+    }
+    .educ p{
+
+       position: absolute;
+       margin-top: 50px;
+       color: #999999;
+    }
+    .blanc{
+    	position: absolute;
+    	margin-top: 100px;
+    	width: 300px;
+    	padding-left: 100px;
+    	height: 200px;
+    }
+    .line1{
+    	border: 1px solid #cccccc;
+    	height: 800px;
+    	width: 1px;
+    	background-color: #cccccc;
+    	margin-left: 200px;
+    	margin-top: 50px;
+
+
+    }
+    .analyse{
+    	position: absolute;
+    	margin-left: 350px;
+    	margin-top: -800px;
+    }
+
+    .analyse h3{
+
+    	
+    	width: 500px;
+    }
+    .color{
+    	color: #ffA804;
+    }
+    .gra{
+    	color:#999999; 
+    }
+    .niv, .nivb, .nivc{
+    	
+    	width: 40px;
+    	height: 40px;
+    	border-radius: 50%;
+    	background-color: #FFDD99;
+    }
+    .niv1, .niv2,.niv3{
+    	position: absolute;
+    	background-color: #FFAB00;
+    	margin-left: 10px;
+    	margin-top: 10px;
+    	
+    	width: 20px;
+    	height: 20px;
+    	border-radius: 50%;
+
+    }
+    .niv{
+    	position: absolute;
+    	margin-top: -790px;
+    	margin-left: 180px;
+    
+    }
+    .bloc-circle{
+ 	display: flex;
+ 	justify-content: space-between;
+ 	margin-top: 1700px;
+ 	padding-left: 250px;
+ }
+
+
+
+.circle-progress-value{
+  stroke-width:10px;
+  stroke: hsl(39, 100% , 50%);
+}
+
+.circle-progress-circle{
+  stroke-width:10px;
+  stroke: hsl(39, 100% , 85%);
+}
+
+.circle-progress-text{
+
+  fill:hsl(39, 100%, 50%);
+}
+  .nivb{
+    	position: absolute;
+    	margin-top: -530px;
+    	margin-left: 180px;
+    
+    }
+    .nivc{
+    	position: absolute;
+    	margin-top: -260px;
+    	margin-left: 180px;
+    	
+    }
+    .las{
+    	position: absolute;
+    	margin-top: -5px;
+    }
+
+    .nuage{
+           
+          background: -webkit-linear-gradient(rgb(134,92,2, 0.5),rgb(108,108,65, 0.5)),url("nuage.jpg"); 
+         height: 300px;
+         margin-top:1000px;
+         padding-top: 180px;
+    	color: white;
+    	background-repeat: no-repeat;
+    	background-size: cover;
+    	display: flex;
+    	flex-wrap: nowrap;
+    	justify-content: space-between;
+    	padding-right: 180px;
+    	padding-left:180px;
+    	
+    		}
+
+   
+    .num2 strong{
+
+    	font-size: 50px;
+    	margin-right: 10px;
+    
+    	
+
+       }
+       .num1, .num2, .num3, .num4{
+       	    display: flex;
+       	    flex-wrap: nowrap;
+       	    align-items: center;
+       	
+       }
+       .num1{
+       	position: absolute;
+       	padding-left: 30px;
+       }
+       
+    .num4 strong{
+        font-size: 50px;
+        margin-right: 10px;
+    
+    }
+    
+    
+    .num1 strong {
+    	font-size: 50px;
+    	margin-right: 10px;
+    
+   
+    }
+
+    
+    .num3 strong {
+    	font-size: 50px;
+    	margin-right: 10px;
+    
+    }
+
+   .copy{
+
+   	height: 100px;
+   	background-color:#28023D;
+   	
+    color:#725957;
+   }
+   .copy p{
+   	position: absolute;
+   	margin-left: 290px;
+   	margin-top: 40px;
+   }
+
+   
+   .copy i{
+   	position: absolute;
+   	margin-top: -6px;
+   	background: none;
+   	border: none;
+   }
+
+   .size{
+   	font-size: 20px;
+   }
+   

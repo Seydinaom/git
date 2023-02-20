@@ -1,0 +1,250 @@
+ body{ 
+ 	width: 100%;
+ 	height: 4000px;
+ 	background-color: white;
+
+
+
+
+ }
+ 
+ .note{
+ 	position: absolute;
+ 	color: white;
+ 	display: flex;
+ 	flex-wrap: wrap;
+ 	justify-content: space-between;
+ 	height: 150px;
+ 	width:1070px;
+ 	margin-top: 70px;
+ 	margin-left: 80px;
+     padding-left: 40px;
+     padding-top: 20px;
+ 	background-color: #ffAD01;
+ }
+
+
+.contain{
+
+ 	height: 700px;
+ 	background-size: cover;
+ 	background-repeat: no-repeat;
+ 	background-image:url(ordinateur.jpg);
+ 	justify-content: contain;
+
+}
+.rue img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-top: 29px;
+	margin-left: -30px;
+}
+.num img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-top: 29px;
+	margin-left: -30px;
+
+}
+.adress img{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	margin-top: 29px;
+	margin-left: -30px;
+
+
+}
+
+
+    
+    
+    .cv{
+    	position: absolute;
+    	background-color: orange;
+    	width: 150px;
+    	height: 50px;
+    	color: white;
+    	margin-top: 250px;
+    	margin-left: 1040px;
+    }
+    .cv p{
+    	position: absolute;
+    	margin-left: 15px;
+    }
+    .box{
+    	position: absolute;margin-top: 30px;
+    	background-color: white;
+    	width: 800px;
+    	height: 400px;
+    	margin-top: 400px;
+    	margin-left: 300px;
+    }
+    .nom{
+    	font-size: 25px;
+    	margin-left: -60px;
+    }
+    .info{
+    	margin-top: 100px;
+    	margin-left: 41%;
+
+
+    }
+    em{
+    	font-size: 17px;
+    	margin-left: 5px;
+    }
+    .yellow{
+    	color:#ffBD84;
+    	font-size: 25px;
+    	margin-bottom: 60px;
+
+
+    }
+    .img img{
+    	position: absolute;
+    	width: 150px;
+    	height: 150px;
+    	border-radius: 50%;
+    	margin-top: -80px;
+    	margin-left: 41%;
+    }
+      .link{
+      	position: absolute;
+      	margin-top: 30px;
+      	margin-left: 60px;
+      	margin-right:60px;
+      }
+      .insta{
+      	position: absolute;
+      	margin-top:30px;
+      	margin-left: 110px;
+      	margin-right:60px;
+
+      	}
+      	.face{
+      	position: absolute;
+      	margin-top: 30px;
+      	margin-left: 160px;
+      	margin-right:60px;
+
+      	}
+      	.pinte{
+      	position: absolute;
+      	margin-top: 28px;
+      	margin-left:15px;
+
+      	
+
+      	}
+      	.twitter{
+      	position: absolute;
+      	margin-top: 30px;
+      	margin-left: 210px;
+
+      	
+
+      	}
+      	.rue i{
+      		border:  none;
+      		margin-left: -30px;
+      		margin-top: 25px;
+      		background-color: transparent;
+      		font-size: 20px;
+      	}
+      	.num i{
+      		border:  none;
+      		margin-left: -32px;
+      		margin-top: 22px;
+      		background-color: transparent;
+      		font-size: 20px;
+
+      	}
+      	.adress i{
+      		border:  none;
+      		margin-left: -32px;
+      		margin-top: 22px;
+      		background-color: transparent;
+      		font-size: 20px;
+      	}
+      	i{   
+
+      		margin-right: 20px;
+            padding-left: 8px;
+            padding-top: 8px;
+      		position: absolute;
+      		width: 30px;
+      		height: 30px;
+      		border: 1px solid black;
+      		border-radius: 50%;
+      		background-color: #887392;
+
+
+      		
+      	}
+      	
+
+      	
+    .reseau img{
+    	position: absolute;
+    	width: 20px;
+    	height: 20px;
+    	border: 1px solid black;
+    	border-radius: 50%;
+    	padding: 5px;
+    	background-color: #887392;
+    	
+    }
+    .reseau{
+    	margin-left: 40%;
+    	margin-top: 10px;
+    }
+    .mail{
+    	margin-left: -30px;
+    }
+    .milieu{
+    	position: absolute;
+    	margin-top: 300px;
+    	margin-left: 50px;
+    }
+    .ligne{
+    	height: 10px;
+    	width: 50px;
+    	border-radius: 5px 5px 5px 5px;
+    	background-color: #ffA804;
+    }
+    .fol{
+    	font-size: 30px;
+    }
+    .my{
+    	color: #DEBB9C;
+    	position: absolute;
+    	margin-top: -17px;
+    }
+    .menu{
+    	margin-top: 320px;
+    	margin-left: 300px;
+    	
+
+    }
+    ul{
+    	display: flex;
+    	flex-wrap: nowrap;
+    	justify-content: space-between;
+    	padding-right: 180px;
+    	padding-left: 90px;
+    	padding-top: 70px;
+    	font-size: 20px;
+
+
+    }
+    li{
+    	list-style-type: none;
+    	
+
+    }
+    .all{
+    	color:#ffA804; 
+    }

@@ -1,0 +1,22 @@
+ .bloc-circle{
+ 	display: flex;
+ 	justify-content: space-between;
+ }
+
+
+
+.circle-progress-value{
+	w
+  stroke-width:10px;
+  stroke: hsl(39, 100% , 50%);
+}
+
+.circle-progress-circle{
+  stroke-width:10px;
+  stroke: hsl(39, 100% , 85%);
+}
+
+.circle-progress-text{
+
+  fill:hsl(39, 100%, 50%);
+}
